@@ -7,7 +7,7 @@ import (
 	"github.com/codegangsta/envy/lib"
 	"github.com/codegangsta/gin/lib"
 	shellwords "github.com/mattn/go-shellwords"
-	"github.com/urfave/cli"
+	"github.com/CliftonH/cli"
 
 	"github.com/0xAX/notificator"
 	"log"
